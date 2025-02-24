@@ -69,7 +69,7 @@ We will re-fit the model on the complete training data set after preprocessing a
 * Towardsdatascience
 
  ## 📜 Feedback 
- If you have any feedback, please reach out to us at sabitendumahapatra@gmail.com
+ If you have any feedback, please reach out to us at sahilbhagat1497@gmail.com
 
 
 
